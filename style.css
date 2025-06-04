@@ -1,0 +1,26 @@
+    h2{
+        text-align: center;
+        font-size: 2rem ;
+    }
+    h1{
+        color: coral;
+        font-size: 10rem;
+    }
+    body{
+        background-color: beige;
+    }
+    input{
+        padding: 1rem;
+        border:none;
+        outline: none;
+        caret-color: transparent;
+    }
+    input:focus {
+        border: 1.5px solid #00bfff;
+        outline: none;
+    }
+    .container{
+        display: block;
+        text-align: center;
+    }
+    
